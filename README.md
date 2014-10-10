@@ -1,9 +1,9 @@
 #Usage
-- You can use like this:
+You can use like this:
 ##STEP1
-- In you project,"Properties -> Android -> Library -> Add -> PromptyDialog",so you already add this lib.
+In you project,"Properties -> Android -> Library -> Add -> PromptyDialog",so you already add this lib.
 ##STEP2
-- In you project,add the following code:
+In you project,add the following code:
 
 ```java
 {
@@ -20,7 +20,7 @@ new PromptDialog.Buider(this)
 .show();
 }
 ```
-- The default view style is PromptDialog.VIEW_STYLE_NORMAL,and you can also change view style:
+The default view style is PromptDialog.VIEW_STYLE_NORMAL,and you can also change view style:
 ```java
 {
 new PromptDialog.Buider(this)
@@ -39,5 +39,5 @@ new PromptDialog.Buider(this)
 ```
 
 - View Style
-- PromptDialog.VIEW_STYLE_NORMAL,PromptDialog.VIEW_STYLE_TITLEBAR,PromptDialog.VIEW_STYLE_TITLEBAR_SKYBLUE.
+PromptDialog.VIEW_STYLE_NORMAL,PromptDialog.VIEW_STYLE_TITLEBAR,PromptDialog.VIEW_STYLE_TITLEBAR_SKYBLUE.
 
