@@ -9,7 +9,7 @@ In you project,add the following code:
 {
 new PromptDialog.Buider(this)
 .setTtile("提示")
-.setMessage(“确定删除xx么？”)
+.setMessage("确定删除xx?")
 .setButton1("确定", new PromptDialog.OnClickListener() {
 			
 			@Override
