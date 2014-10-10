@@ -1,6 +1,6 @@
 #Usage
 You can use like this:
-##STEP1
+####STEP1
 ```java
 {
 new PrimptDialog.Buider(this)
