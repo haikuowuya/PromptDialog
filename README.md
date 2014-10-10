@@ -26,7 +26,7 @@ The default view style is PromptDialog.VIEW_STYLE_NORMAL,and you can also change
 new PromptDialog.Buider(this)
 .setTtile("提示")
 .setViewStyle(PromptDialog.VIEW_STYLE_TITLEBAR)
-.setMessage(“确定删除xx么？”)
+.setMessage("确定删除xx么?")
 .setButton1("确定", new PromptDialog.OnClickListener() {
 			
 			@Override
