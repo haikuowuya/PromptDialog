@@ -23,7 +23,7 @@ new PromptDialog.Builder(this)
 The default view style is PromptDialog.VIEW_STYLE_NORMAL,and you can also change view style:
 ```java
 {
-new PromptDialog.Buider(this)
+new PromptDialog.Builder(this)
 .setTtile("提示")
 .setViewStyle(PromptDialog.VIEW_STYLE_TITLEBAR)
 .setMessage("确定删除xx么?")
@@ -37,7 +37,6 @@ new PromptDialog.Buider(this)
 .show();
 }
 ```
-
 View Style:
 - PromptDialog.VIEW_STYLE_NORMAL,
 - PromptDialog.VIEW_STYLE_TITLEBAR,
