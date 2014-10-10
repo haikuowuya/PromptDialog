@@ -45,4 +45,6 @@ View Style:
 
 #Demo Snapshot
 ![Snapshot](http://s8.sinaimg.cn/middle/0021tin2gy6MHLZnW1927&690)
+![Snapshot](http://s2.sinaimg.cn/middle/0021tin2gy6MHLZnVa951&690)
+![Snapshot](http://s7.sinaimg.cn/middle/0021tin2gy6MHLZo2p006&690)
 
