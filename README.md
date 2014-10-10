@@ -3,7 +3,7 @@ You can use like this:
 ##STEP1
 In you project,"Properties -> Android -> Library -> Add -> PromptyDialog",so you already add this lib.
 ##STEP2
-In you project,input the following code:
+In you project,add the following code:
 
 ```java
 {
