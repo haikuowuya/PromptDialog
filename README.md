@@ -42,6 +42,7 @@ View Style:
 - PromptDialog.VIEW_STYLE_NORMAL,
 - PromptDialog.VIEW_STYLE_TITLEBAR,
 - PromptDialog.VIEW_STYLE_TITLEBAR_SKYBLUE.
+
 #Demo Snapshot
 ![Snapshot](http://s8.sinaimg.cn/middle/0021tin2gy6MHLZnW1927&690)
 
