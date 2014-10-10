@@ -38,5 +38,6 @@ new PromptDialog.Buider(this)
 }
 ```
 
-- View Style:PromptDialog.VIEW_STYLE_NORMAL,PromptDialog.VIEW_STYLE_TITLEBAR,PromptDialog.VIEW_STYLE_TITLEBAR_SKYBLUE.
+- View Style
+- PromptDialog.VIEW_STYLE_NORMAL,PromptDialog.VIEW_STYLE_TITLEBAR,PromptDialog.VIEW_STYLE_TITLEBAR_SKYBLUE.
 
