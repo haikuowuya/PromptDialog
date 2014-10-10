@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 #Usage
 You can use like this:
 ##STEP1
@@ -42,16 +41,3 @@ new PromptDialog.Buider(this)
 - View Style:
 PromptDialog.VIEW_STYLE_NORMAL,PromptDialog.VIEW_STYLE_TITLEBAR,PromptDialog.VIEW_STYLE_TITLEBAR_SKYBLUE.
 
-=======
-Usage
-============
-<<<<<<< Updated upstream
-new PrimptDialog.Buider(this)
-.setTtile()
-.setMessage()
-.setButton1("text",null)
-.show();
-=======
- ![image](https://github.com/ButBueatiful/dotvim/raw/master/screenshots/vim-screenshot.jpg)
->>>>>>> Stashed changes
->>>>>>> Stashed changes

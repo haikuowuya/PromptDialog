@@ -19,32 +19,32 @@ release.properties
 pom.xml.*
 res/menu/main.xml
 
-src/fynn/layout/drawable/TitleBarBgSkyBlue.java
+res/values-v14/styles.xml
 
-src/fynn/layout/drawable/ButtonSingleSelector.java
+res/values-sw720dp-land/dimens.xml
 
-src/fynn/layout/drawable/ButtonLeftSelector.java
-
-src/fynn/layout/DialogTitleBarSkyBlue.java
-
-src/fynn/layout/DialogNormal.java
-
-src/fynn/layout/DialogTitleBar.java
+res/values-v11/styles.xml
 
 res/values/dimens.xml
 
 res/values/strings.xml
 
-res/values-v14/styles.xml
+src/fynn/layout/drawable/ButtonSingleSelector.java
 
-src/fynn/layout/drawable/ButtonCenterSelector.java
+src/fynn/layout/DialogNormal.java
 
 src/fynn/layout/drawable/ButtonRightSelector.java
 
-src/fynn/layout/drawable/DialogBG.java
-
-res/values-v11/styles.xml
-
-res/values-sw720dp-land/dimens.xml
+src/fynn/layout/DialogTitleBarSkyBlue.java
 
 res/values-sw600dp/dimens.xml
+
+src/fynn/layout/drawable/ButtonCenterSelector.java
+
+src/fynn/layout/DialogTitleBar.java
+
+src/fynn/layout/drawable/ButtonLeftSelector.java
+
+src/fynn/layout/drawable/DialogBG.java
+
+src/fynn/layout/drawable/TitleBarBgSkyBlue.java
